@@ -1,11 +1,4 @@
-# Docker with Docker-Compose
+# .Net SDK with NodeJS
 
-This is an simple Addon for the default docker image.
-It comes with docker-compose preinstalled.
-
-See:
-https://wiki.alpinelinux.org/wiki/Docker#Docker_Compose
-
- - `apk add py-pip`
- - `apk add python-dev libffi-dev openssl-dev gcc libc-dev make`
- - `pip install docker-compose`
+This is an simple Addon for the microsoft/dotnet:-sdk image.
+It comes with NodeJS preinstalled.
